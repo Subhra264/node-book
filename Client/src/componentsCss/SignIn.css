@@ -1,0 +1,23 @@
+.form-div-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.form-container{
+    padding: 2rem;
+    text-align: center;
+    width: 40%;
+}
+
+.form-container .input{
+    margin: 0.7rem auto;
+    width: 85%;
+    color: bisque;
+}
+
+.form-container .submit{
+    margin: 0.7rem 0;
+    width: 85%;
+}
